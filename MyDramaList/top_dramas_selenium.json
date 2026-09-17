@@ -2265,14 +2265,6 @@
     },
     {
         "rank": "#284",
-        "title": "Marry My Husband",
-        "year": "2024",
-        "eps": "16 episodes",
-        "rating": "8.5",
-        "type": "Korean Drama"
-    },
-    {
-        "rank": "#285",
         "title": "Stranger Season 2",
         "year": "2020",
         "eps": "16 episodes",
@@ -2280,7 +2272,7 @@
         "type": "Korean Drama"
     },
     {
-        "rank": "#286",
+        "rank": "#285",
         "title": "A Shop for Killers Season 2",
         "year": "2026",
         "eps": "8 episodes",
@@ -2288,7 +2280,7 @@
         "type": "Korean Drama"
     },
     {
-        "rank": "#287",
+        "rank": "#286",
         "title": "Put Your Head On My Shoulder Special Episode",
         "year": "2019",
         "eps": "1 episodes",
@@ -2296,12 +2288,20 @@
         "type": "Chinese Special"
     },
     {
-        "rank": "#288",
+        "rank": "#287",
         "title": "Lovely Us",
         "year": "2020",
         "eps": "16 episodes",
         "rating": "8.5",
         "type": "Chinese Drama"
+    },
+    {
+        "rank": "#288",
+        "title": "Marry My Husband",
+        "year": "2024",
+        "eps": "16 episodes",
+        "rating": "8.5",
+        "type": "Korean Drama"
     },
     {
         "rank": "#289",
@@ -3809,14 +3809,6 @@
     },
     {
         "rank": "#477",
-        "title": "Marry My Husband: Japan",
-        "year": "2025",
-        "eps": "10 episodes",
-        "rating": "8.4",
-        "type": "Japanese Drama"
-    },
-    {
-        "rank": "#478",
         "title": "Le Coup de Foudre",
         "year": "2019",
         "eps": "35 episodes",
@@ -3824,7 +3816,7 @@
         "type": "Chinese Drama"
     },
     {
-        "rank": "#479",
+        "rank": "#478",
         "title": "To Fly with You",
         "year": "2021",
         "eps": "35 episodes",
@@ -3832,7 +3824,7 @@
         "type": "Chinese Drama"
     },
     {
-        "rank": "#480",
+        "rank": "#479",
         "title": "The Imperial Coroner",
         "year": "2021",
         "eps": "36 episodes",
@@ -3840,7 +3832,7 @@
         "type": "Chinese Drama"
     },
     {
-        "rank": "#481",
+        "rank": "#480",
         "title": "The Crowned Clown",
         "year": "2019",
         "eps": "16 episodes",
@@ -3848,7 +3840,7 @@
         "type": "Korean Drama"
     },
     {
-        "rank": "#482",
+        "rank": "#481",
         "title": "Mad for Each Other",
         "year": "2021",
         "eps": "13 episodes",
@@ -3856,12 +3848,20 @@
         "type": "Korean Drama"
     },
     {
-        "rank": "#483",
+        "rank": "#482",
         "title": "Stay with Me",
         "year": "2023",
         "eps": "24 episodes",
         "rating": "8.4",
         "type": "Chinese Drama"
+    },
+    {
+        "rank": "#483",
+        "title": "Marry My Husband: Japan",
+        "year": "2025",
+        "eps": "10 episodes",
+        "rating": "8.4",
+        "type": "Japanese Drama"
     },
     {
         "rank": "#484",
@@ -4844,7 +4844,7 @@
         "title": "Us: Uncut Version",
         "year": "2025",
         "eps": "12 episodes",
-        "rating": "8.3",
+        "rating": "8.4",
         "type": "Thai Drama"
     },
     {
@@ -8780,7 +8780,7 @@
         "title": "Flight to You",
         "year": "2022",
         "eps": "39 episodes",
-        "rating": "8.2",
+        "rating": "8.1",
         "type": "Chinese Drama"
     },
     {
@@ -25028,7 +25028,7 @@
         "title": "Love Destiny",
         "year": "2026",
         "eps": "10 episodes",
-        "rating": "7.7",
+        "rating": "7.6",
         "type": "Thai Drama"
     },
     {
@@ -32236,7 +32236,7 @@
         "title": "Reborn",
         "year": "2026",
         "eps": "9 episodes",
-        "rating": "7.6",
+        "rating": "7.5",
         "type": "Japanese Drama"
     },
     {
@@ -37524,7 +37524,7 @@
         "title": "Unhating You",
         "year": "2023",
         "eps": "16 episodes",
-        "rating": "7.5",
+        "rating": "7.4",
         "type": "Thai Drama"
     },
     {
